@@ -1,0 +1,4 @@
+sku,location,quantity,as_of_date
+SYN-001,STORE-A,12,2026-01-05
+SYN-002,STORE-A,4,2026-01-05
+SYN-001,STORE-B,0,2026-01-05
